@@ -1,1 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2021-06-27T05:59:01.804Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" version="14.8.1" etag="cs1KrhzXYL8F1oKS5IiD" type="github"><diagram id="5CMAaAWv4veqY2dORFw-">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-06-27T06:11:29.292Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="4MXJZfZqCHbMI27Xoo4o" version="14.8.1" type="github">
+  <diagram id="5CMAaAWv4veqY2dORFw-" name="第 1 页">
+    <mxGraphModel dx="1038" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="1">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="3Ef4jTvt22rPcxo2j9ch-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3Ef4jTvt22rPcxo2j9ch-1" target="3Ef4jTvt22rPcxo2j9ch-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3Ef4jTvt22rPcxo2j9ch-1" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" vertex="1" parent="1">
+          <mxGeometry x="50" y="250" width="130.95" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="3Ef4jTvt22rPcxo2j9ch-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="3Ef4jTvt22rPcxo2j9ch-6" target="3Ef4jTvt22rPcxo2j9ch-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3Ef4jTvt22rPcxo2j9ch-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="3Ef4jTvt22rPcxo2j9ch-6" target="3Ef4jTvt22rPcxo2j9ch-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3Ef4jTvt22rPcxo2j9ch-6" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-size: 18px&quot;&gt;执行命令&lt;/span&gt;" style="whiteSpace=wrap;html=1;verticalAlign=middle;labelBackgroundColor=white;" vertex="1" parent="1">
+          <mxGeometry x="313.21000000000004" y="275" width="163.58" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3Ef4jTvt22rPcxo2j9ch-10" value="内存" style="whiteSpace=wrap;html=1;verticalAlign=middle;labelBackgroundColor=white;" vertex="1" parent="1">
+          <mxGeometry x="335.00000000000006" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3Ef4jTvt22rPcxo2j9ch-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="3Ef4jTvt22rPcxo2j9ch-12" target="3Ef4jTvt22rPcxo2j9ch-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3Ef4jTvt22rPcxo2j9ch-12" value="记录日志" style="whiteSpace=wrap;html=1;labelBackgroundColor=white;" vertex="1" parent="1">
+          <mxGeometry x="600" y="275" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3Ef4jTvt22rPcxo2j9ch-14" value="磁盘" style="whiteSpace=wrap;html=1;labelBackgroundColor=white;" vertex="1" parent="1">
+          <mxGeometry x="600" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
