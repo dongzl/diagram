@@ -1,1 +1,75 @@
-<mxfile host="app.diagrams.net" modified="2021-07-13T10:55:22.410Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" version="14.8.5" etag="rVBOIng19YRFOiq7kPxN" type="github"><diagram id="cylDeFSioXK2iNlwoYPA">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-07-13T10:59:18.672Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="9m8jrmXe5dZnPHbQ95dS" version="14.8.5" type="github">
+  <diagram id="cylDeFSioXK2iNlwoYPA" name="第 1 页">
+    <mxGraphModel dx="1767" dy="814" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="jaBfrvVNgpfaSf4DY4rG-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jaBfrvVNgpfaSf4DY4rG-1" target="jaBfrvVNgpfaSf4DY4rG-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jaBfrvVNgpfaSf4DY4rG-1" value="残疾人补贴" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jaBfrvVNgpfaSf4DY4rG-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jaBfrvVNgpfaSf4DY4rG-2" target="jaBfrvVNgpfaSf4DY4rG-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jaBfrvVNgpfaSf4DY4rG-2" value="残疾人" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="380" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jaBfrvVNgpfaSf4DY4rG-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jaBfrvVNgpfaSf4DY4rG-8" target="jaBfrvVNgpfaSf4DY4rG-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jaBfrvVNgpfaSf4DY4rG-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jaBfrvVNgpfaSf4DY4rG-8" target="jaBfrvVNgpfaSf4DY4rG-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jaBfrvVNgpfaSf4DY4rG-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jaBfrvVNgpfaSf4DY4rG-8" target="jaBfrvVNgpfaSf4DY4rG-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jaBfrvVNgpfaSf4DY4rG-8" value="年龄是否&amp;gt;60" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="490" width="100" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="jaBfrvVNgpfaSf4DY4rG-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="jaBfrvVNgpfaSf4DY4rG-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="580.0000000000002" y="512.5" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jaBfrvVNgpfaSf4DY4rG-12" value="结束" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="482.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jaBfrvVNgpfaSf4DY4rG-14" value="发放补贴" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="630" y="491.25" width="120" height="42.5" as="geometry" />
+        </mxCell>
+        <mxCell id="jaBfrvVNgpfaSf4DY4rG-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jaBfrvVNgpfaSf4DY4rG-16" target="jaBfrvVNgpfaSf4DY4rG-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jaBfrvVNgpfaSf4DY4rG-16" value="年龄是否&amp;gt;70" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="797.5" width="100" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="jaBfrvVNgpfaSf4DY4rG-18" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jaBfrvVNgpfaSf4DY4rG-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jaBfrvVNgpfaSf4DY4rG-20" target="jaBfrvVNgpfaSf4DY4rG-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jaBfrvVNgpfaSf4DY4rG-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jaBfrvVNgpfaSf4DY4rG-20" target="jaBfrvVNgpfaSf4DY4rG-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jaBfrvVNgpfaSf4DY4rG-20" value="是否独居" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="490" width="100" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="jaBfrvVNgpfaSf4DY4rG-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jaBfrvVNgpfaSf4DY4rG-22" target="jaBfrvVNgpfaSf4DY4rG-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jaBfrvVNgpfaSf4DY4rG-22" value="是：补贴100" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="357.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jaBfrvVNgpfaSf4DY4rG-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="jaBfrvVNgpfaSf4DY4rG-25" target="jaBfrvVNgpfaSf4DY4rG-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jaBfrvVNgpfaSf4DY4rG-25" value="否：补贴60" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="607.5" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
