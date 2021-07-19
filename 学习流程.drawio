@@ -1,1 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2021-07-19T02:12:23.665Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" version="14.9.0" etag="5C9NwoYhAPD3fgr2qWdT" type="github"><diagram id="GnX3NOx1zQk7DC2u811i">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-07-19T02:14:22.426Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="bj2qwD3BBjfSAiTUCzSq" version="14.9.0" type="github">
+  <diagram id="GnX3NOx1zQk7DC2u811i" name="Page-1">
+    <mxGraphModel dx="865" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2iUmW0RnTpMCmj1ETa1e-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2iUmW0RnTpMCmj1ETa1e-1" target="2iUmW0RnTpMCmj1ETa1e-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2iUmW0RnTpMCmj1ETa1e-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2iUmW0RnTpMCmj1ETa1e-1" target="2iUmW0RnTpMCmj1ETa1e-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2iUmW0RnTpMCmj1ETa1e-1" value="开始" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2iUmW0RnTpMCmj1ETa1e-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2iUmW0RnTpMCmj1ETa1e-2" target="2iUmW0RnTpMCmj1ETa1e-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2iUmW0RnTpMCmj1ETa1e-2" value="学习SQL" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="154" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2iUmW0RnTpMCmj1ETa1e-4" value="通过SQL驱动业务&lt;br&gt;通过了解这个SQL 得知这个具体的业务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="154" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2iUmW0RnTpMCmj1ETa1e-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2iUmW0RnTpMCmj1ETa1e-6" target="2iUmW0RnTpMCmj1ETa1e-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2iUmW0RnTpMCmj1ETa1e-6" value="熟悉业务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2iUmW0RnTpMCmj1ETa1e-8" value="通过这个指标，就能得知这个指标具体的一个取值方式和运算方式" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
