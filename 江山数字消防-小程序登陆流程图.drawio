@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-27T09:24:39.142Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="4iofFr0Z_Mh1i3NiHL98" version="15.5.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-27T09:51:47.374Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="z-gq6j3lUHI65thdwQ9N" version="15.5.9" type="github">
   <diagram id="iFPqk2V4EiZ9pEt907NT" name="第 1 页">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -86,7 +86,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ENk7p5N732iysQaMyrkj-26" value="游客页面" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="977" y="480" width="120" height="60" as="geometry" />
+          <mxGeometry x="990" y="480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mdMUdsJSd5tctlLjU6Es-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mdMUdsJSd5tctlLjU6Es-1" target="mdMUdsJSd5tctlLjU6Es-3">
           <mxGeometry relative="1" as="geometry" />
@@ -100,7 +100,7 @@
         <mxCell id="mdMUdsJSd5tctlLjU6Es-3" value="调用海康的接口" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1390" y="480" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mdMUdsJSd5tctlLjU6Es-5" value="自己保留数据" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="mdMUdsJSd5tctlLjU6Es-5" value="保留数据" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1180" y="600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mdMUdsJSd5tctlLjU6Es-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mdMUdsJSd5tctlLjU6Es-7" target="mdMUdsJSd5tctlLjU6Es-9">
@@ -109,7 +109,7 @@
         <mxCell id="mdMUdsJSd5tctlLjU6Es-7" value="审批" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="390" y="740" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mdMUdsJSd5tctlLjU6Es-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mdMUdsJSd5tctlLjU6Es-9" target="mdMUdsJSd5tctlLjU6Es-11">
+        <mxCell id="mdMUdsJSd5tctlLjU6Es-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mdMUdsJSd5tctlLjU6Es-9" target="mdMUdsJSd5tctlLjU6Es-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mdMUdsJSd5tctlLjU6Es-9" value="调用海康的接口" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
@@ -118,7 +118,7 @@
         <mxCell id="mdMUdsJSd5tctlLjU6Es-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="mdMUdsJSd5tctlLjU6Es-11" target="ENk7p5N732iysQaMyrkj-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mdMUdsJSd5tctlLjU6Es-11" value="返回二维码或者其他信息" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="mdMUdsJSd5tctlLjU6Es-11" value="返回二维码" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="820" y="740" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mdMUdsJSd5tctlLjU6Es-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mdMUdsJSd5tctlLjU6Es-14" target="mdMUdsJSd5tctlLjU6Es-16">
@@ -129,6 +129,36 @@
         </mxCell>
         <mxCell id="mdMUdsJSd5tctlLjU6Es-16" value="和海康打通" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="710" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mdMUdsJSd5tctlLjU6Es-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mdMUdsJSd5tctlLjU6Es-35" target="mdMUdsJSd5tctlLjU6Es-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mdMUdsJSd5tctlLjU6Es-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mdMUdsJSd5tctlLjU6Es-35" target="mdMUdsJSd5tctlLjU6Es-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mdMUdsJSd5tctlLjU6Es-35" value="审批" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="610" y="870" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mdMUdsJSd5tctlLjU6Es-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mdMUdsJSd5tctlLjU6Es-41" target="mdMUdsJSd5tctlLjU6Es-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mdMUdsJSd5tctlLjU6Es-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mdMUdsJSd5tctlLjU6Es-41" target="mdMUdsJSd5tctlLjU6Es-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mdMUdsJSd5tctlLjU6Es-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mdMUdsJSd5tctlLjU6Es-41" target="mdMUdsJSd5tctlLjU6Es-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mdMUdsJSd5tctlLjU6Es-41" value="通过" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="820" y="870" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mdMUdsJSd5tctlLjU6Es-44" value="产生消息" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="870" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mdMUdsJSd5tctlLjU6Es-46" value="记录数据" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="820" y="1000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mdMUdsJSd5tctlLjU6Es-48" value="拒绝=结束" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="870" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
